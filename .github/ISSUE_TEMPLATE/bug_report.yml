@@ -50,7 +50,6 @@ body:
     attributes:
       label: 스크린샷 또는 에러 로그
       description: 오류 화면 캡처나 로그가 있다면 붙여넣어 주세요. (민감 정보 제외)
-      placeholder: 로그를 여기에 붙여넣으면 자동으로 코드 블록으로 변환됩니다.
-      render: shell
+      placeholder: 로그를 여기에 붙여넣어 주세요.
     validations:
       required: false
